@@ -1,0 +1,16 @@
+var num5 = 5;
+var num6 = 3;
+var sum = num5 + num6;
+console.log('The sum of ' + num5 + ' and ' + num6 + ' is: ' + sum);
+var num1 = 5;
+var num2 = 3;
+var difference = num1 - num2;
+console.log('The difference of ' + num1 + ' and ' + num2 + ' is: ' + difference);
+var num4 = 5;
+var num3 = 3;
+var product = num4 * num3;
+console.log('The product of ' + num4 + ' and ' + num3 + ' is: ' + product);
+var num7 = 5;
+var num8 = 3;
+var quotient = num7 / num8;
+console.log('The quotient of ' + num7 + ' and ' + num8 + ' is: ' + quotient);
